@@ -1,0 +1,2 @@
+﻿# 2025-08-27 19:06:28 — Démarrage du log
+2025-08-27 19:10:41 [ERROR] Exception lors de l'appel de « ShowDialog » avec « 0 » argument(s) : « La propriété « Count » est introuvable dans cet objet. Vérifiez qu’elle existe. »

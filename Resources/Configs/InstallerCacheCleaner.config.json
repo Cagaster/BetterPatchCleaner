@@ -1,0 +1,16 @@
+﻿{
+    "InspectMetadata":  true,
+    "ExcludedVendors":  [
+                            "^Adobe$",
+                            "Adobe Systems",
+                            "Adobe Inc"
+                        ],
+    "RecommendMoveByDefault":  true,
+    "ExcludedFilePatterns":  [
+                                 "^.*\\\\Adobe.*$"
+                             ],
+    "ExcludedProducts":  [
+                             "Acrobat",
+                             "Reader"
+                         ]
+}
